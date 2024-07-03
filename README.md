@@ -3,6 +3,7 @@ Hello everyone my name is sidharth saholiya, i am currently pursuing Bachelor of
 I am currency a Machine Learning intern at encryptix.so encryptix provide 4 month virtual internship, where you are given a set of project list with their corresponding dataset and the intern has to complete any 3 projects from it. This is a great opportunity to learn and understand new models and Algorithms.
 
 This Repo will contain 3 Task
+
 #1. Movie Genre Classification - This Projects lets you understand the basics of the Machine learning Project. It also explores important concepts such as Lancaster Stemmer, Text Vectorization Using TF-IDF, and the Naive bayes model
 Structure of the Project:
 1. Import the necessary Libraries
