@@ -20,7 +20,23 @@ Necessary Definitions
 2. Lancaster Stemmer: This initialises the Lancaster Stemmer, a tool used in natural language processing (NLP) to reduce words to their root form (e.g., "running" to "run"). This process is known as stemming.
 3. stopwords.words('english'): This retrieves a list of common English stopwords from the NLTK library (like "the", "and", "is"), which are often removed from text during preprocessing because they don't carry significant meaning.
 
-#2. Spam Sms Detection - 
+#2. Spam Sms Detection - This Project is about SMS-Spam-Detection, In this project i have used Naive Bayes model for prediction. 
+Structure of the Project:
+1. Import the necessary Libraries
+2. Load the Dataset
+3. Perform some basic commands to understand the data. Eg. df.head(), df.info() and so on
+4. Visualization 
+5. Data Preprocessing 
+6. Text Vectorization 
+7. Splitting Data and Building Model
+8. Prediction and Result
+
+Apart from the basic stuff i had understood the following new topics from this project
+
+1. NLTK - Natural Language Toolkit It is a platform for building Python programs to work with human language data for more click on this link - https://www.nltk.org/
+2. Porter Stemmer - It applies a series of rules to remove common suffixes from English words.Example: "running" -> "run", "happier" -> "happi".
+3. PUNKT - Punkt is a pre-trained model that helps in sentence segmentation and tokenization. Tokenization is the process of splitting text into individual words or sentences. for more - https://www.nltk.org/api/nltk.tokenize.punkt.html
+4. wordcloud - Combines all the text documents into a single string. Uses WordCloud to generate and visualize the most frequent words.
 
 
 #3. Credit card Fraud Detection - 
