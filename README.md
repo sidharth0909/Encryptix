@@ -27,7 +27,7 @@ Structure of the Project:
 3. Perform some basic commands to understand the data. Eg. df.head(), df.info() and so on
 4. Visualization 
 5. Data Preprocessing 
-6. Text Vectorization 
+6. Label Encoder 
 7. Splitting Data and Building Model
 8. Prediction and Result
 
